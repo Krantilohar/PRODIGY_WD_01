@@ -28,7 +28,7 @@ Create an interactive navigation menu using HTML, CSS, and JavaScript that:
 - Changes style on scroll and hover
 
 ## 👩‍💻 Author
-**Vaishnavi Bhosale**
+**Kranti Lohar**
 
 ## 🏷️ Internship
 Prodigy Infotech – Web Development Internship
